@@ -1,2 +1,2 @@
 # CodingNinja
-JavaDSA Solution
+Java FullStack Solutions
